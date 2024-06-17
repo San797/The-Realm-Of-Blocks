@@ -36,8 +36,8 @@
         "data": {
           "agent_id": "7c08d8b0-692f-4560-85f1-6490e4b00ca3",
           "agent_name": "from-key-d5fb",
-          "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_ip": "147.185.221.20",
+          "local_port": 27755
         },
         "type": "agent"
       },
